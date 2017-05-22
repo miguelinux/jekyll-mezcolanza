@@ -1,0 +1,16 @@
+# Nombre de tu sitio web (se verá en el encabezado)
+name: Nombre de tu sitio
+
+# Descripción de tu sitio web (se verá en el encabezado)
+description: Otro sitio hecho en Jekyll
+
+# Url de tu imagen de perfil
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+# Excluir archivos del sitio ya generado en producción
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
